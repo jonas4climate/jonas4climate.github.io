@@ -29,24 +29,30 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Climate Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          title: 'Climate Talk in European Parliament',
+          description: 'As one of four selected youth, I received the opportunity to speak about the intersection of climate education & democracy in the European Parliament as part of the Level Up! conference in Brussels.',
+          imageURL: 'https://github.com/jonas4climate/jonas4climate.github.io/blob/main/files/youth_talk.jpg',
+          link: 'https://audiovisual.ec.europa.eu/en/video/I-235549',
         },
         {
-          title: 'Project Name',
+          title: 'Event Coordination @ COP26, Glasgow',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I attended the 26th international conference of parties (COP) for ClimateScience to coordinate the annual climate olympiad finals of ClimateScience, a climate education charity.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/jonas4climate/jonas4climate.github.io/blob/main/files/cop26.jpg',
+          link: 'https://unfccc.int/process-and-meetings/the-paris-agreement/the-glasgow-climate-pact-key-outcomes-from-cop26',
+        },
+        {
+          title: 'Climate Education Advocacy @ SB56, Bonn',
+          description:
+            'I also attended the SB56 climate change conference in Bonn to network and establish partnerships to expand climate education access.',
+          imageUrl:
+            'https://github.com/jonas4climate/jonas4climate.github.io/blob/main/files/sb56.jpg',
+          link: 'https://unfccc.int/SB56',
         },
       ],
     },
