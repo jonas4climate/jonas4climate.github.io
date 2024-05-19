@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Climate Talk in European Parliament',
           description: 'As one of four selected youth, I received the opportunity to speak about the intersection of climate education & democracy in the European Parliament as part of the Level Up! conference in Brussels.',
-          imageURL: 'https://drive.google.com/file/d/1mb2kh_-WTIUm4Ms27A8_TSXH2Oo2Gzd7/view?usp=sharing',
+          imageURL: 'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/youth_talk.jpg',
           link: 'https://audiovisual.ec.europa.eu/en/video/I-235549',
         },
         {
@@ -43,7 +43,7 @@ const CONFIG = {
           description:
             'I attended the 26th international conference of parties (COP) for ClimateScience to coordinate the annual climate olympiad finals of ClimateScience, a climate education charity.',
           imageUrl:
-            'https://drive.google.com/file/d/1uYkPg3BLDEk6dKc4cmSin2kbwAJ66C8i/view?usp=sharing',
+            'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/cop26.jpg',
           link: 'https://unfccc.int/process-and-meetings/the-paris-agreement/the-glasgow-climate-pact-key-outcomes-from-cop26',
         },
         {
@@ -51,7 +51,7 @@ const CONFIG = {
           description:
             'I also attended the SB56 climate change conference in Bonn to network and establish partnerships to expand climate education access.',
           imageUrl:
-            'https://drive.google.com/file/d/1YAMxL0u9NbEB_nBXtfwSL6-QFsTdb8d-/view?usp=sharing',
+            'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/sb56.jpg',
           link: 'https://unfccc.int/SB56',
         },
       ],
@@ -116,7 +116,7 @@ const CONFIG = {
       name: 'European (Climate) Policy Workshop',
       body: 'European Horizons',
       year: 'December 2022',
-      link: 'https://drive.google.com/file/d/1WTl3sCdY95KVtZiQpta6qgr3fzQ-FwgZ/view?usp=sharing',
+      link: 'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/EH_certificate.pdf',
     },
   ],
   educations: [
