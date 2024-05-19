@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Climate Talk in European Parliament',
           description: 'As one of four selected youth, I received the opportunity to speak about the intersection of climate education & democracy in the European Parliament as part of the Level Up! conference in Brussels.',
-          imageURL: 'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/youth_talk.jpg',
+          imageUrl: 'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/youth_talk.jpg',
           link: 'https://audiovisual.ec.europa.eu/en/video/I-235549',
         },
         {
