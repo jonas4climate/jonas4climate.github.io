@@ -25,7 +25,14 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['jonas4climate/opinion-formation-complexity', 'jonas4climate/galaxy-zoo', 'jonas4climate/modelling-natural-processes'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [
+          'jonas4climate/opinion-formation-complexity',
+          'jonas4climate/galaxy-zoo',
+          'jonas4climate/modelling-natural-processes',
+          'jonas4climate/learn_fourier',
+          // 'jonas4climate/jonas4climate.github.io',
+          // 'jonas4climate/na-assignments',
+        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
