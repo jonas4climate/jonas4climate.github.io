@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'jonas4climate/opinion-formation-complexity',
-          'jonas4climate/metabolic-cellular-modelling',
+          'wykremcony/computational-biology-assignments',
           'jonas4climate/galaxy-zoo',
           'jonas4climate/modelling-natural-processes',
           'jonas4climate/numerical-algorithms-practice',
