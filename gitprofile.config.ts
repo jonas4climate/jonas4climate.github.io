@@ -27,12 +27,12 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'jonas4climate/opinion-formation-complexity',
+          'jonas4climate/metabolic-cellular-modelling',
           'jonas4climate/galaxy-zoo',
           'jonas4climate/modelling-natural-processes',
+          'jonas4climate/numerical-algorithms-practice',
           'jonas4climate/learn_fourier',
-          // 'jonas4climate/jonas4climate.github.io',
-          // 'jonas4climate/na-assignments',
-        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        ],
       },
     },
     external: {
@@ -66,13 +66,13 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Jonas Schäfer',
-    description: '',
+    description: 'Computational Science student @ UvA (Amsterdam) with a passion for climate education and sustainability.',
     imageURL: '',
   },
   social: {
     linkedin: 'jonas-schaefer',
-    // twitter: 'arif_szn',
-    // mastodon: 'arifszn@mastodon.social',
+    // twitter: '',
+    // mastodon: '',
     // researchGate: '',
     // facebook: '',
     // instagram: '',
@@ -82,8 +82,8 @@ const CONFIG = {
     // udemy: '',
     // dribbble: '',
     // behance: '',
-    // medium: 'arifszn',
-    // dev: 'arifszn',
+    // medium: '',
+    // dev: '',
     // stackoverflow: '', // example: '1/jeff-atwood'
     // skype: '',
     // telegram: 'jonas_cs',
