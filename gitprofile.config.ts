@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'GitHub Software Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'jonas4climate/opinion-formation-complexity',
-          'wykremcony/computational-biology-assignments',
+          'jonas4climate/metabolic-cellular-modelling',
           'jonas4climate/galaxy-zoo',
           'jonas4climate/modelling-natural-processes',
           'jonas4climate/numerical-algorithms-practice',
