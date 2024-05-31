@@ -137,8 +137,8 @@ const CONFIG = {
     {
       institution: 'University of Amsterdam & Vrije University',
       degree: 'M.Sc. Computational Science (joint)',
-      from: 'September 2021',
-      to: 'July 2023',
+      from: 'September 2023',
+      to: 'July 2025',
     },
     {
       institution: 'University of Birmingham',
