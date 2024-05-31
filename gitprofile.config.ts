@@ -89,7 +89,7 @@ const CONFIG = {
     // telegram: 'jonas_cs',
     website: 'https://jonas4climate.github.io',
     // phone: '',
-    email: 'jonas(dot)schaefer(at)gmail(dot)com',
+    email: 'jonas(dot)schaefer00(at)gmail(dot)com',
   },
   resume: {
     fileUrl:
