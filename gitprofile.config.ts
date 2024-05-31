@@ -40,15 +40,15 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Climate Talk in European Parliament',
-          description: 'As one of four selected youth, I received the opportunity to speak about the intersection of climate education & democracy in the European Parliament as part of the Level Up! conference in Brussels.',
+          title: 'Climate Education Talk @ European Parliament, Brussels',
+          description: 'As one of four selected youth in the EU, I received public speaking coaching and the opportunity to speak about the intersection of climate education & democracy in the EU parliament as part of the Level Up! conference.',
           imageUrl: 'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/youth_talk.jpg',
           link: 'https://audiovisual.ec.europa.eu/en/video/I-235549',
         },
         {
           title: 'Event Coordination @ COP26, Glasgow',
           description:
-            'I attended the 26th international conference of parties (COP) for ClimateScience to coordinate the annual climate olympiad finals of ClimateScience, a climate education charity.',
+            'I coordinated the annual final ceremony of the ClimateScience Olympiad as a volunteer at ClimateScience, a leading climate education charity. The event was held in the Green Zone of the global conference of parties (COP26) in Glasgow, UK.',
           imageUrl:
             'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/cop26.jpg',
           link: 'https://unfccc.int/process-and-meetings/the-paris-agreement/the-glasgow-climate-pact-key-outcomes-from-cop26',
@@ -56,7 +56,7 @@ const CONFIG = {
         {
           title: 'Climate Education Advocacy @ SB56, Bonn',
           description:
-            'I also attended the SB56 climate change conference in Bonn to network and establish partnerships to expand climate education access.',
+            'I attended the SB56 climate change conference in Bonn to network, establish partnerships and expand free climate education access as a volunteer at ClimateScience, a leading climate education charity.',
           imageUrl:
             'https://raw.githubusercontent.com/jonas4climate/jonas4climate.github.io/main/files/sb56.jpg',
           link: 'https://unfccc.int/SB56',
