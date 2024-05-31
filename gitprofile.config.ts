@@ -93,11 +93,11 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/jonas4climate/cv/blob/main/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/jonas4climate/cv/main/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Machine Learning',
-    'Neural Networks',
+    'Traditional Machine Learning',
+    'Deep Learning',
     'Scientific Computing',
     'Uncertainty Quantification',
     'Stochastic Modelling',
@@ -115,6 +115,13 @@ const CONFIG = {
       position: 'Head of Human Resources (Volunteer)',
       from: 'June 2022',
       to: 'March 2023',
+      companyLink: 'https://climatescience.org',
+    },
+    {
+      company: 'ClimateScience',
+      position: 'Web Developer & EU Partnerships (Volunteer)',
+      from: 'December 2019',
+      to: 'June 2022',
       companyLink: 'https://climatescience.org',
     },
   ],
