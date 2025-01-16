@@ -28,10 +28,8 @@ const CONFIG = {
         projects: [
           'jonas4climate/opinion-formation-complexity',
           'jonas4climate/metabolic-cellular-modelling',
-          'jonas4climate/galaxy-zoo',
           'jonas4climate/modelling-natural-processes',
-          'jonas4climate/numerical-algorithms-practice',
-          'jonas4climate/learn_fourier',
+          'jonas4climate/galaxy-zoo',
         ],
       },
     },
@@ -66,7 +64,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Jonas Schäfer',
-    description: 'Computational Science student @ UvA (Amsterdam) with a passion for climate education and sustainability.',
+    description: 'Computational Science student @ University of Amsterdam with a passion for tech and sustainability.',
     imageURL: '',
   },
   social: {
@@ -96,13 +94,21 @@ const CONFIG = {
       'https://raw.githubusercontent.com/jonas4climate/cv/main/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'Energy System Modelling & Simulation',
+    'Scientific Computing',
     'Traditional Machine Learning',
     'Deep Learning',
-    'Scientific Computing',
     'Uncertainty Quantification',
     'Stochastic Modelling',
   ],
   experiences: [
+    {
+      company: 'Forschungszentrum Jülich, ICE-1',
+      position: 'Master Thesis Student',
+      from: 'November 2024',
+      to: 'April 2024',
+      companyLink: 'https://www.fz-juelich.de/en/ice/ice-1',
+    },
     {
       company: 'proWIN Winter GmbH',
       position: 'Sustainability Intern',
